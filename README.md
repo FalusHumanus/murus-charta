@@ -1,2 +1,55 @@
 # murus-charta
-Wallpapers can be found be searching for color - Red - Green - Blue - Orange - Pink - Magenta - Purple - Black - Brown - White - Gray - Grey - Pastel - Light - Dark - Rainbow -   or by some keywords - Topography - lines - Fractal / Mandelbrot - Abstract - Botany - Hill - Tree - Paint - Astronaut - Space - Planet - Rocket - City - Road - Cloud - Night - Stars - Windows - Linux - FreeBSD - Apple - icons - MKBHD - Mountain - Sun - Moon - Ship - Square - Triangle - Hexagon - Minimal - Water  - Cat - Ascii - Unicorn - Waves - 
+### Wallpapers can be found be searching for color 
+- Red 
+- Green 
+- Blue 
+- Orange 
+- Pink 
+- Magenta 
+- Purple 
+- Black 
+- Brown 
+- White 
+- Gray 
+- Grey 
+- Pastel 
+- Light 
+- Dark 
+- Rainbow
+### or by some keywords 
+- Topography 
+- lines 
+- Fractal / Mandelbrot 
+- Abstract 
+- Botany 
+- Hill 
+- Tree 
+- Paint 
+- Astronaut 
+- Space 
+- Planet 
+- Rocket 
+- City 
+- Road 
+- Cloud 
+- Night 
+- Stars 
+- Windows 
+- Linux 
+- FreeBSD 
+- Apple 
+- icons 
+- MKBHD 
+- Mountain 
+- Sun 
+- Moon 
+- Ship 
+- Square 
+- Triangle 
+- Hexagon 
+- Minimal 
+- Water  
+- Cat 
+- Ascii 
+- Unicorn 
+- Waves
